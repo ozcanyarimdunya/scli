@@ -1,3 +1,8 @@
+---
+title: Home
+hide: toc
+---
+
 # SCLI
 
 Simple Command Line Interface.
