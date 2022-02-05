@@ -1,7 +1,12 @@
 from importlib import import_module
 
+from cleo.helpers import argument  # noqa
+from cleo.helpers import option  # noqa
+
 __all__ = [
+    "argument",
     "import_string",
+    "option",
 ]
 
 

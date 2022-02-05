@@ -1,7 +1,7 @@
 import time
 
-from scli.core import BaseCommand
-from scli.core import option
+from scli.commands.base import BaseCommand
+from scli.utils import option
 
 
 class Command(BaseCommand):

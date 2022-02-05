@@ -1,12 +1,13 @@
 ---
-title: Getting started
 hide: toc
 ---
 
-## Clone project
+# Getting started
+
+## Clone
 
 ```shell
-git clone https://github.com/ozcanyarimdunya/scli.git 
+git clone https://github.com/ozcanyarimdunya/scli.git
 ```
 
 ```shell

@@ -1,11 +1,7 @@
 from cleo import Command
-from cleo.helpers import argument  # noqa
-from cleo.helpers import option  # noqa
 
 __all__ = [
-    "argument",
     "BaseCommand",
-    "option",
 ]
 
 

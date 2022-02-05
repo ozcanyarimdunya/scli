@@ -1,5 +1,5 @@
 import scli
-from scli.core import BaseCommand
+from scli.commands.base import BaseCommand
 
 
 class Command(BaseCommand):
