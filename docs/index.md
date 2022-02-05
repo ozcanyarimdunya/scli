@@ -5,7 +5,7 @@ hide: toc
 
 # SCLI
 
-Simple Command Line Interface.
+**S**imple **C**ommand **L**ine **I**nterface
 
 It is built with [cleo](https://cleo.readthedocs.io/en/latest/).
 
